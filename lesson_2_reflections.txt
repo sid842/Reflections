@@ -26,6 +26,9 @@ can create different branches and complete our work, and then merge the changes.
 
 How do the diagrams help you visualize the branch structure?
 
+We can see the commits that were made on each branch and check the maturity of the software.
+Also lets us decide the reachability of the commit. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

@@ -21,6 +21,9 @@ in working directory.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+If we are working on some experimental features, or if we are working on seperate features in a team, we
+can create different branches and complete our work, and then merge the changes.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in

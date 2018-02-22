@@ -13,6 +13,11 @@ our working directory by add only those files to the staging area.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+We can add only those files to the staging area which we need to commit, letting the others
+remain in the working directory.Also like if we are making changes in the same file, we can add the file 
+to the staging area after we have done one logical change and then add more changes to the file
+in working directory.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 

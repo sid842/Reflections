@@ -32,5 +32,8 @@ Also lets us decide the reachability of the commit.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+We have now added features from different sources to our production ready code.
+Since after merging we have single branch, that is why it is represented in the diagram as such.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

@@ -37,3 +37,6 @@ Since after merging we have single branch, that is why it is represented in the 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+automatic merging leads to programmers being free of this process of merging code. May cause some errors if the changes are in the same place.
+Manually merging is a tough task but guarantees no such error to creep in.
